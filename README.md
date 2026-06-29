@@ -86,10 +86,10 @@ Com experiência abrangente em ecossistema Microsoft, DevOps, containers e intel
 ## 🤝 Conecte-se Comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/denisreis/" target="_blank"> 
+  <a href="https://www.linkedin.com/in/denilsonreis25" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
-  <a href="mailto:seu.email@example.com" target="_blank"> 
+  <a href="mailto: denilsonreys11@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
   <a href="https://github.com/Denis-Reis" target="_blank">
